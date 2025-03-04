@@ -28,6 +28,8 @@ RainbowBorder(
 ),
 ```
 
+<img width="200" alt="screenshot_2025-03-04" src="https://github.com/user-attachments/assets/d0034af4-b605-46f2-a277-5a764788b51e" />
+
 ## Available Properties
 
 | Property           | Type     | Description                                              |
