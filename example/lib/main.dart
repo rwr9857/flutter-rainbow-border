@@ -36,17 +36,16 @@ class _MyHomePageState extends State<MyHomePage> {
         title: const Text('Rainbow Border Container'),
       ),
       body: const Center(
-        child: RainbowBorder(
-              width: 300,
-              height: 300,
-              border: 4,
-              borderRadius: 10,
-              child: Text(
-                "Rainbow Border",
-                style: TextStyle(fontSize: 24),
-              ),
-            )
-      ),
+          child: RainbowBorder(
+        width: 300,
+        height: 300,
+        border: 4,
+        borderRadius: 10,
+        child: Text(
+          "Rainbow Border",
+          style: TextStyle(fontSize: 24),
+        ),
+      )),
     );
   }
 }

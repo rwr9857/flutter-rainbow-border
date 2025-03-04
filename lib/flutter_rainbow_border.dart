@@ -69,7 +69,10 @@ class RainbowBorderState extends State<RainbowBorder>
               size: Size(widget.width, widget.height),
               painter: RainbowBorderPainter(
                 rotation: widget.isRotating
-                    ? (widget.isClockwise ? _controller.value : -_controller.value) * 360
+                    ? (widget.isClockwise
+                            ? _controller.value
+                            : -_controller.value) *
+                        360
                     : widget.fixedRotation,
                 borderWidth: widget.border,
                 borderRadius: widget.borderRadius,
