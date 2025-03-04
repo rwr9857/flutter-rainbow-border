@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/flutter__rainbow__border-v0.0.1-8a2b)
+![Static Badge](https://img.shields.io/badge/flutter__rainbow__border-v0.0.2-8a2b)
 ![Static Badge](https://img.shields.io/badge/platform-flutter-ff69b4.svg) 
 ![Static Badge](https://img.shields.io/badge/license-MIT-purple)
 
