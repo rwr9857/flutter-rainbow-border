@@ -51,4 +51,4 @@ This package is developed by Jungi Kim.
 
 - [GitHub][github]
 
-[github]: https://github.com/Vulpes94
+[github]: https://github.com/rwr9857
